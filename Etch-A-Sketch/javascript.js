@@ -87,3 +87,5 @@ var Transperency = function(){
 
 	});
 };
+
+//just a comment for commiting the change to github
