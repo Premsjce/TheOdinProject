@@ -1,0 +1,32 @@
+html{
+	background-color: #669999
+}
+
+.top{
+	text-align: center;
+}
+
+.square{
+	float: left;
+}
+
+button{
+	height: 45px;
+	width: 120px;
+	margin-top:5px;
+	border-radius: 10px;
+}
+
+
+
+.GridContainer{
+	height: 960px;
+	width: 960px;
+	margin: auto;
+	margin-top: 20px;
+	border-radius: 1%;
+	border: 1px dotted black;
+	background-color: green;
+
+}
+
